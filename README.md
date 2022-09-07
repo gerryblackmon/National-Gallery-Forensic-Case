@@ -1,5 +1,7 @@
 # National-Gallery-Forensic-Case
-Participants are instructed to gather as much evidence as possible to establish the case for prosecution using Kali Linux OS with Autopsy. Like
+Participants are instructed to gather as much evidence as possible to establish the case for prosecution using Kali Linux OS with Autopsy.
+
+***Awarded for "Deepest Dive" at University of CA Irvine Cybersecurity Program 2021
 
 Description of Project
 
