@@ -28,8 +28,13 @@ Equipment and Tools
 The Equipment and Applications listed were used to analyze images of the data present on
 Tracys iphone. The file tracy-phone-2012-07-15-final.E01 was examined and relevant data was
 examined and extracted.
+
 Autopsy Application within Kali-Linux OS
+
 SQLite Database browser
+
 Google Earth GPS
+
 GUNZIP
+
 Evince Pdf reader
